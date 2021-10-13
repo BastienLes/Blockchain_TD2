@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+bip39.py
+setup.py
+bip39.egg-info/PKG-INFO
+bip39.egg-info/SOURCES.txt
+bip39.egg-info/dependency_links.txt
+bip39.egg-info/requires.txt
+bip39.egg-info/top_level.txt
+tests/bip39_en.txt
+tests/test_bip39.py
+tests/testvectors.json
